@@ -12,6 +12,11 @@ namespace CrudOperationsDemo
         {
             Console.WriteLine("Welcome to Pune");
         }
+
+        void Division()
+        {
+            Console.WriteLine("Welcome to Division");
+        }
         void Show()
         {
             Console.WriteLine("Welcome to Pune");
