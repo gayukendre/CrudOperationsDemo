@@ -12,6 +12,10 @@ namespace CrudOperationsDemo
         {
             Console.WriteLine("Welcome to Pune");
         }
+        void Show()
+        {
+            Console.WriteLine("Welcome to Pune");
+        }
         static void Main(string[] args)
         {
         }
